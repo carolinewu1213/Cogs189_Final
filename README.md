@@ -1,3 +1,3 @@
-# commander-blink
+# Blink Detection
 
-This repository contains all the code (GUI, software, and classifier) for Commander Blink, our final project for COGS 189. 
+The project output would be a BCI system that uses eye blinks as a binary input, allowing individuals with temporary or permanent disabilities to control software and perform everyday digital actions with ease.
